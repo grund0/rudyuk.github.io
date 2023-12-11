@@ -1,0 +1,167 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+p { 
+    text-indent: 25px; 
+    text-align: left;
+}
+
+a {
+    font-style: italic;
+}
+
+b {
+    letter-spacing: 10px;
+}
+
+#table {
+    text-align: right;
+    padding: 15px 0px 0px 10px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.bl {
+    color:blue;
+    font-style: italic;
+}
+
+#blue {
+    color:blue;
+    text-decoration: underline;
+}
+
+.red {
+    color:red;
+    font-style: italic;
+}
+
+#op {
+    background-color: #CD00CD;
+    font-style: oblique;
+}
+
+#line {
+    text-decoration: underline;
+}
+
+#nan {
+    font-size: 20px;
+}
+
+h1 { 
+    color:blue; 
+}
+
+h2{
+    color:purple;
+    text-align: left;
+}
+
+#math {
+    color: blue;
+    text-decoration: line-through;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    padding: 15px 20px 20px 10px;
+    
+}
+
+
+div {
+    width: 500px;
+}
+
+.main1 {
+    background-color: aqua;
+    vertical-align: middle;
+    text-align: center;
+    background-size: contain;
+    
+}
+
+.main2 {
+    text-align: right;
+    background-color: #bbbbbb;
+}
+
+.first {
+    background-color: yellow;
+}
+
+
+.fourth {
+font-weight: bold;
+}
+
+.fifth {
+    background-color: #bbbbbb;
+    text-align: center;
+}
+
+.one {
+    background-color: white;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.two {
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+}
+
+.three {
+    color: blue;
+    background-color: aqua;
+    text-align: right;
+    font-weight: bolder;
+}
+
+.four {
+    background-color: pink;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.fife {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+
+#one {
+    color: blue;
+    text-align: left;
+    font-weight: bolder;
+}
+
+#two {
+    font-weight: bolder;
+}
+
+#three {
+    color: blue;
+    text-align: right;
+    font-weight: bolder;
+}
+
+#four {
+    font-weight: bolder;
+}
+
+#five {
+    color: blue;
+}
